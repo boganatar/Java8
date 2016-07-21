@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 
 /**
  * Created by red5 on 7/21/2016.
+ * https://github.com/ievstratenko/Java8Project
  */
 public class StreamsHelper {
 
